@@ -1,7 +1,8 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+fun main(){
+    /*
+    * val : variable immutable (Variable yang tidak bisa diubah lagi setelah diinisialisasi)
+    * var : variable mutable (Variable yang bisa diubah lagi setelah diinisialisasi)
+    * */
+    val name = "Thomas alberto"
+    println("Hello my name is $name")
 }
