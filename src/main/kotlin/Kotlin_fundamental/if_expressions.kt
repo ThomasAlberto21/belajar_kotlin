@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     val openHours = 7
     val now = 5

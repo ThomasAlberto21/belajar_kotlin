@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     val user = setUser("Thomas Alberto", 19)
     println(user)

@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     // Safe call operator (Operator yang digunakan untuk mengakses nilai dari sebuah variabel yang mungkin null)
     val text: String? = null

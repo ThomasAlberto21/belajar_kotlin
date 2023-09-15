@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main(){
     /*
     * val : variable immutable (Variable yang tidak bisa diubah lagi setelah diinisialisasi)

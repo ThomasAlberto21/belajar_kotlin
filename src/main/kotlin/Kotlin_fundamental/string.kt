@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     // TODO : String (Tipe data yang digunakan untuk menyimpan beberapa karakter)
     val textString: String = "Kotlin"

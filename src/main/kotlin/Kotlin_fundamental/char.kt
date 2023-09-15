@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     // Char (Tipe data yang hanya dapat digunakan untuk menyimpan 1 karakter saja)
     val character: Char = 'A'

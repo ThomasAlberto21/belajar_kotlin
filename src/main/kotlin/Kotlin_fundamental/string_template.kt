@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     val name = "Thomas Alberto"
     val old = 19

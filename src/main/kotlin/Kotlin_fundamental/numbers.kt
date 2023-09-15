@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     // TODO : Int(32 Bit) dapat menyimpan data dari range -2^31 sampai +2^31-1. Dengan ukuran 32 Bit
     val intNumber: Int = 100

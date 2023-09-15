@@ -1,3 +1,5 @@
+package Kotlin_fundamental
+
 fun main() {
     // TODO : Array(tipe data yang memungkinkan kita untuk menyimpan beberapa objek di dalam sebuah variabel)
     /*
