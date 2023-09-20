@@ -9,8 +9,8 @@ val buildString = StringBuilder().apply {
 }
 
 // Lambda argument (it) adalah sebuah lambda yang didefinisikan di dalam sebuah fungsi dan dapat diakses menggunakan kata kunci it.
-val text = "Hello"
-text.let {
-    val message = "$it Kotlin"
-    println(message)
-}
+//val text = "Hello"
+//text.let {
+//    val message = "$it Kotlin"
+//    println(message)
+//}
