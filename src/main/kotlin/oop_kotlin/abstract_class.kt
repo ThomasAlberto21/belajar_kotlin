@@ -13,6 +13,6 @@ abstract class Animal13(var name: String, var weight: Double, var age: Int, var 
     }
 }
 
-fun main(){
-    val animal = Animal13("dicoding animal", 2.6, 1, true)
-}
+//fun main(){
+//    val animal = Animal13("dicoding animal", 2.6, 1, true)
+//}
